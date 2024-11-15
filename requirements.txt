@@ -1,0 +1,9 @@
+google_api_python_client==2.89.0
+openai==0.27.8
+python-dotenv==1.0.0
+Requests==2.31.0
+slack_bolt==1.18.0
+slack_sdk==3.21.3
+Wikipedia_API==0.5.8
+youtube_transcript_api==0.6.0
+yt_dlp==2023.7.6
