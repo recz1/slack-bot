@@ -37,7 +37,8 @@ After completing these steps, you can proceed to install the application. Rememb
 
 
 Go to `OAuth & Permissions` and make sure you have all these permissions enabled.
-<img width="600" alt="Screenshot 2024-11-18 at 17 24 46" src="https://github.com/user-attachments/assets/449c9a15-f9e7-413e-abfe-6cdb49ed336e">
+<img width="850" alt="Screenshot 2024-11-18 at 17 24 46" src="https://github.com/user-attachments/assets/449c9a15-f9e7-413e-abfe-6cdb49ed336e">
+
 
 Also, you need to enable `Event Subscriptions` right after the OAuth section.
 
