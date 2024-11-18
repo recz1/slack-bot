@@ -22,7 +22,7 @@ Go to https://api.slack.com/apps/ and make your own application. You can name th
 
 Firstly, you need to generate a token and give the token proper scope that allows the application to function well. For this program, you need to enable the following scopes.
 
-![Screenshot 20241118 at 171812png](file://readme/Screenshot%202024-11-18%20at%2017.18.12.png?msec=1731921542830)
+![Screenshot 20241118 at 171812png]((https://github.com/recz1/slack-bot/blob/main/readme/Screenshot%202024-11-18%20at%2017.18.12.png))
 
 You also need to remember the token you generated, and this will be your `SLACK_APP_TOKEN`.
 
