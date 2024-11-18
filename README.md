@@ -33,11 +33,11 @@ After this step, you need to ensure that the bot is connecting through **Socket 
 
 
 After completing these steps, you can proceed to install the application. Remember to store your OAuth Token as this should be the `SLACK_BOT_TOKEN` that you will need later.
-<img width="600" alt="Screenshot 2024-11-18 at 17 22 19" src="https://github.com/user-attachments/assets/b6acb51a-8bcf-4005-9f78-c431b2af5b36">
+<img width="850" alt="Screenshot 2024-11-18 at 17 22 19" src="https://github.com/user-attachments/assets/b6acb51a-8bcf-4005-9f78-c431b2af5b36">
 
 
 Go to `OAuth & Permissions` and make sure you have all these permissions enabled.
-<img width="850" alt="Screenshot 2024-11-18 at 17 24 46" src="https://github.com/user-attachments/assets/449c9a15-f9e7-413e-abfe-6cdb49ed336e">
+<img width="600" alt="Screenshot 2024-11-18 at 17 24 46" src="https://github.com/user-attachments/assets/449c9a15-f9e7-413e-abfe-6cdb49ed336e">
 
 
 Also, you need to enable `Event Subscriptions` right after the OAuth section.
